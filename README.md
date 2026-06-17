@@ -1,6 +1,8 @@
 # miniguia-estudos-notebooklm
 miniguia para estudos do notebooklm (curso DIO)
 
+link NotebookLM ([NOTEBOOK](https://notebooklm.google.com/notebook/f9b67499-50d7-45a2-9ba1-16327ac98abb))
+
 Contexto e Objetivos:
 NotebookLM para explicar as principais diferenças entre as hyper-scooter disponíveis para compra no Brasil.
 
